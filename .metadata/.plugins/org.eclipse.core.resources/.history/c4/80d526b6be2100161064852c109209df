@@ -1,0 +1,22 @@
+package com.hhm.oracle.test;
+
+import java.sql.Connection;
+
+/**
+ * 测试利用jdbc来操作oracle数据库管理系统
+ * @author 黄帅哥
+ *
+ */
+public class oracleTest {
+	private String username="scott";
+	private String password="3113007968";
+	private Connection conn=null;
+	static{
+		
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+	
+}
